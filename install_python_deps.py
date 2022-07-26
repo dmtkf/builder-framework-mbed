@@ -36,7 +36,7 @@ def build_packages():
         "jinja2>=2.10.1,<2.11",
         "pyelftools==0.25",
         "beautifulsoup4>=4,<=4.6.3",
-        "future==0.17.1",
+        "future==0.18.2",
         "prettytable==0.7.2",
         "jsonschema==2.6.0",
         "six==1.12.0"
